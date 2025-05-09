@@ -8,3 +8,6 @@ https://github.com/jiho283/FactKG
 
 
 Ranking test recreates results.
+
+
+Code file also recreates results for llms
